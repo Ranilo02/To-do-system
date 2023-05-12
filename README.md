@@ -14,4 +14,4 @@ alterações feitas:
     - listagem de categorias
 
 
-- A opção de listagwm de to-dos agora lista-as por categoria
+- A opção de listagem de to-dos agora lista-as por categoria
